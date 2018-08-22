@@ -1,0 +1,26 @@
+platform :ios, '9.0'
+
+use_frameworks!
+inhibit_all_warnings!
+ 
+def shared_pods
+    
+  pod 'SVProgressHUD'
+  pod 'MJRefresh'
+  pod 'UMengAnalytics'
+  pod 'AFNetworking'
+  pod 'MJExtension'
+  pod 'SDWebImage',                       '~> 3.7'
+  pod 'Masonry' 
+  pod 'CYLTabBarController'
+  pod 'SDCycleScrollView'
+  pod 'BlocksKit'
+  pod 'YYCache'
+  # pod 'YYText'
+  pod 'DACircularProgress'
+
+end
+ 
+target 'EXChat'  do
+  shared_pods
+end

@@ -1,0 +1,45 @@
+//
+//  PrefixHeader.pch
+//  EXChat
+//
+//  Created by Apple on 2018/8/3.
+//  Copyright © 2018年 jiusheng. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//类导入头文件
+
+#import <SDWebImage/SDWebImage-umbrella.h>
+#import "UIColor+MLPFlatColors.h"
+
+#import "CommonLibrary.h"
+
+#import "TIMAdapter.h"
+
+#import "ImageHeader.h"
+
+#import "ConstHeader.h"
+
+#import "CustomUIHeader.h"
+
+#import "ConversationHeaders.h"
+
+#import <AVFoundation/AVAsset.h>
+
+#import "ChatHeaders.h"
+
+#import "ConversationHeaders.h"
+
+#import "IMAModel.h"
+
+#import "Header.h"
+//宏配置文件
+#import "Config.h"
+
+//宏配置UI文件
+
+#import "UIUtility.h"
+
+#endif /* PrefixHeader_pch */
