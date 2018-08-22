@@ -134,24 +134,10 @@
 		183F09472115AA35009A8ABA /* ShakeLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F08E22115AA35009A8ABA /* ShakeLabel.m */; };
 		183F09482115AA35009A8ABA /* GSPChatMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F08E32115AA35009A8ABA /* GSPChatMessage.m */; };
 		183F09492115AA35009A8ABA /* PresentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F08E42115AA35009A8ABA /* PresentView.m */; };
-		183F094A2115AA35009A8ABA /* WMPageController.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F08E82115AA35009A8ABA /* WMPageController.m */; };
-		183F094B2115AA35009A8ABA /* WMPanGestureRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F08EB2115AA35009A8ABA /* WMPanGestureRecognizer.m */; };
-		183F094C2115AA35009A8ABA /* WMMenuItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F08EF2115AA35009A8ABA /* WMMenuItem.m */; };
-		183F094D2115AA35009A8ABA /* WMScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F08F12115AA35009A8ABA /* WMScrollView.m */; };
-		183F094E2115AA35009A8ABA /* WMMenuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F08F22115AA35009A8ABA /* WMMenuView.m */; };
-		183F094F2115AA35009A8ABA /* WMProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F08F32115AA35009A8ABA /* WMProgressView.m */; };
-		183F09502115AA35009A8ABA /* CAAnimation+WAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F08F72115AA35009A8ABA /* CAAnimation+WAnimation.m */; };
-		183F09512115AA35009A8ABA /* UIBarButtonItem+WZLBadge.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F08FC2115AA35009A8ABA /* UIBarButtonItem+WZLBadge.m */; };
-		183F09522115AA35009A8ABA /* UITabBarItem+WZLBadge.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F08FD2115AA35009A8ABA /* UITabBarItem+WZLBadge.m */; };
-		183F09532115AA35009A8ABA /* UIView+WZLBadge.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09032115AA35009A8ABA /* UIView+WZLBadge.m */; };
 		183F09542115AA35009A8ABA /* LoadHtmlViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09062115AA35009A8ABA /* LoadHtmlViewController.m */; };
 		183F09592115AA35009A8ABA /* GiftPopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09132115AA35009A8ABA /* GiftPopView.m */; };
 		183F095A2115AA35009A8ABA /* GiftButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09152115AA35009A8ABA /* GiftButton.m */; };
 		183F095B2115AA35009A8ABA /* GiftModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09172115AA35009A8ABA /* GiftModel.m */; };
-		183F095C2115AA35009A8ABA /* LYEmptyBaseView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09192115AA35009A8ABA /* LYEmptyBaseView.m */; };
-		183F095D2115AA35009A8ABA /* UIScrollView+Empty.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F091B2115AA35009A8ABA /* UIScrollView+Empty.m */; };
-		183F095E2115AA35009A8ABA /* UIView+LYExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F091C2115AA35009A8ABA /* UIView+LYExtension.m */; };
-		183F095F2115AA35009A8ABA /* LYEmptyView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F091F2115AA35009A8ABA /* LYEmptyView.m */; };
 		183F09602115AA35009A8ABA /* ActionSheetDatePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09252115AA35009A8ABA /* ActionSheetDatePicker.m */; };
 		183F09612115AA35009A8ABA /* ActionSheetLocalePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09272115AA35009A8ABA /* ActionSheetLocalePicker.m */; };
 		183F09622115AA35009A8ABA /* ActionSheetDistancePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F092A2115AA35009A8ABA /* ActionSheetDistancePicker.m */; };
@@ -163,15 +149,6 @@
 		183F09682115AA35009A8ABA /* MenuTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09362115AA35009A8ABA /* MenuTableViewCell.m */; };
 		183F09692115AA35009A8ABA /* HYYMenuItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09382115AA35009A8ABA /* HYYMenuItem.m */; };
 		183F096A2115AA35009A8ABA /* MenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F093A2115AA35009A8ABA /* MenuViewController.m */; };
-		183F09F62115AA61009A8ABA /* WRNavigationBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09A02115AA5F009A8ABA /* WRNavigationBar.m */; };
-		183F09F72115AA61009A8ABA /* WRCustomNavigationBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09A32115AA5F009A8ABA /* WRCustomNavigationBar.m */; };
-		183F0A022115AA61009A8ABA /* GCDAsyncSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09B92115AA60009A8ABA /* GCDAsyncSocket.m */; };
-		183F0A032115AA61009A8ABA /* OnlineSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09BA2115AA60009A8ABA /* OnlineSocket.m */; };
-		183F0A042115AA61009A8ABA /* VideoSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09BE2115AA60009A8ABA /* VideoSocket.m */; };
-		183F0A102115AA61009A8ABA /* WSDatePickerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 183F09DD2115AA60009A8ABA /* WSDatePickerView.xib */; };
-		183F0A112115AA61009A8ABA /* WSDatePickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09DE2115AA60009A8ABA /* WSDatePickerView.m */; };
-		183F0A122115AA61009A8ABA /* NSDate+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09DF2115AA60009A8ABA /* NSDate+Extension.m */; };
-		183F0A132115AA61009A8ABA /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F09E02115AA60009A8ABA /* UIView+Extension.m */; };
 		183F0A192115AC28009A8ABA /* DataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F0A162115AC28009A8ABA /* DataSource.m */; };
 		183F0A1C2115BBE2009A8ABA /* UIColor+MLPFlatColors.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F0A1B2115BBE2009A8ABA /* UIColor+MLPFlatColors.m */; };
 		183F0A2C2115C13C009A8ABA /* UITextField+UITextField_Tip.m in Sources */ = {isa = PBXBuildFile; fileRef = 183F0A2B2115C13C009A8ABA /* UITextField+UITextField_Tip.m */; };
@@ -588,28 +565,6 @@
 		183F08E42115AA35009A8ABA /* PresentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PresentView.m; sourceTree = "<group>"; };
 		183F08E52115AA35009A8ABA /* AnimOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnimOperation.h; sourceTree = "<group>"; };
 		183F08E62115AA35009A8ABA /* AnimOperationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnimOperationManager.h; sourceTree = "<group>"; };
-		183F08E82115AA35009A8ABA /* WMPageController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WMPageController.m; sourceTree = "<group>"; };
-		183F08EA2115AA35009A8ABA /* WMScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WMScrollView.h; sourceTree = "<group>"; };
-		183F08EB2115AA35009A8ABA /* WMPanGestureRecognizer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WMPanGestureRecognizer.m; sourceTree = "<group>"; };
-		183F08EC2115AA35009A8ABA /* WMMenuItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WMMenuItem.h; sourceTree = "<group>"; };
-		183F08ED2115AA35009A8ABA /* WMMenuView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WMMenuView.h; sourceTree = "<group>"; };
-		183F08EE2115AA35009A8ABA /* WMProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WMProgressView.h; sourceTree = "<group>"; };
-		183F08EF2115AA35009A8ABA /* WMMenuItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WMMenuItem.m; sourceTree = "<group>"; };
-		183F08F02115AA35009A8ABA /* WMPanGestureRecognizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WMPanGestureRecognizer.h; sourceTree = "<group>"; };
-		183F08F12115AA35009A8ABA /* WMScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WMScrollView.m; sourceTree = "<group>"; };
-		183F08F22115AA35009A8ABA /* WMMenuView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WMMenuView.m; sourceTree = "<group>"; };
-		183F08F32115AA35009A8ABA /* WMProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WMProgressView.m; sourceTree = "<group>"; };
-		183F08F42115AA35009A8ABA /* WMPageController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WMPageController.h; sourceTree = "<group>"; };
-		183F08F72115AA35009A8ABA /* CAAnimation+WAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CAAnimation+WAnimation.m"; sourceTree = "<group>"; };
-		183F08F82115AA35009A8ABA /* CAAnimation+WAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CAAnimation+WAnimation.h"; sourceTree = "<group>"; };
-		183F08FA2115AA35009A8ABA /* UIBarButtonItem+WZLBadge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+WZLBadge.h"; sourceTree = "<group>"; };
-		183F08FB2115AA35009A8ABA /* UITabBarItem+WZLBadge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITabBarItem+WZLBadge.h"; sourceTree = "<group>"; };
-		183F08FC2115AA35009A8ABA /* UIBarButtonItem+WZLBadge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+WZLBadge.m"; sourceTree = "<group>"; };
-		183F08FD2115AA35009A8ABA /* UITabBarItem+WZLBadge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITabBarItem+WZLBadge.m"; sourceTree = "<group>"; };
-		183F08FE2115AA35009A8ABA /* WZLBadgeImport.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WZLBadgeImport.h; sourceTree = "<group>"; };
-		183F09002115AA35009A8ABA /* WZLBadgeProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WZLBadgeProtocol.h; sourceTree = "<group>"; };
-		183F09022115AA35009A8ABA /* UIView+WZLBadge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+WZLBadge.h"; sourceTree = "<group>"; };
-		183F09032115AA35009A8ABA /* UIView+WZLBadge.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+WZLBadge.m"; sourceTree = "<group>"; };
 		183F09052115AA35009A8ABA /* LoadHtmlViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadHtmlViewController.h; sourceTree = "<group>"; };
 		183F09062115AA35009A8ABA /* LoadHtmlViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadHtmlViewController.m; sourceTree = "<group>"; };
 		183F09122115AA35009A8ABA /* GiftButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GiftButton.h; sourceTree = "<group>"; };
@@ -618,15 +573,6 @@
 		183F09152115AA35009A8ABA /* GiftButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GiftButton.m; sourceTree = "<group>"; };
 		183F09162115AA35009A8ABA /* GiftPopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GiftPopView.h; sourceTree = "<group>"; };
 		183F09172115AA35009A8ABA /* GiftModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GiftModel.m; sourceTree = "<group>"; };
-		183F09192115AA35009A8ABA /* LYEmptyBaseView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYEmptyBaseView.m; sourceTree = "<group>"; };
-		183F091A2115AA35009A8ABA /* LYEmptyView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYEmptyView.h; sourceTree = "<group>"; };
-		183F091B2115AA35009A8ABA /* UIScrollView+Empty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+Empty.m"; sourceTree = "<group>"; };
-		183F091C2115AA35009A8ABA /* UIView+LYExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+LYExtension.m"; sourceTree = "<group>"; };
-		183F091D2115AA35009A8ABA /* LYEmptyBaseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYEmptyBaseView.h; sourceTree = "<group>"; };
-		183F091E2115AA35009A8ABA /* LYEmptyViewHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LYEmptyViewHeader.h; sourceTree = "<group>"; };
-		183F091F2115AA35009A8ABA /* LYEmptyView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LYEmptyView.m; sourceTree = "<group>"; };
-		183F09202115AA35009A8ABA /* UIScrollView+Empty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+Empty.h"; sourceTree = "<group>"; };
-		183F09212115AA35009A8ABA /* UIView+LYExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+LYExtension.h"; sourceTree = "<group>"; };
 		183F09232115AA35009A8ABA /* ActionSheetCustomPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ActionSheetCustomPicker.h; sourceTree = "<group>"; };
 		183F09242115AA35009A8ABA /* ActionSheetStringPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ActionSheetStringPicker.h; sourceTree = "<group>"; };
 		183F09252115AA35009A8ABA /* ActionSheetDatePicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ActionSheetDatePicker.m; sourceTree = "<group>"; };
@@ -651,23 +597,6 @@
 		183F09392115AA35009A8ABA /* MenuTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuTableViewCell.h; sourceTree = "<group>"; };
 		183F093A2115AA35009A8ABA /* MenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuViewController.m; sourceTree = "<group>"; };
 		183F093B2115AA35009A8ABA /* HYYMenuItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYYMenuItem.h; sourceTree = "<group>"; };
-		183F09A02115AA5F009A8ABA /* WRNavigationBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WRNavigationBar.m; sourceTree = "<group>"; };
-		183F09A12115AA5F009A8ABA /* WRCustomNavigationBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WRCustomNavigationBar.h; sourceTree = "<group>"; };
-		183F09A22115AA5F009A8ABA /* WRNavigationBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WRNavigationBar.h; sourceTree = "<group>"; };
-		183F09A32115AA5F009A8ABA /* WRCustomNavigationBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WRCustomNavigationBar.m; sourceTree = "<group>"; };
-		183F09B92115AA60009A8ABA /* GCDAsyncSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GCDAsyncSocket.m; sourceTree = "<group>"; };
-		183F09BA2115AA60009A8ABA /* OnlineSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnlineSocket.m; sourceTree = "<group>"; };
-		183F09BB2115AA60009A8ABA /* VideoSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoSocket.h; sourceTree = "<group>"; };
-		183F09BC2115AA60009A8ABA /* OnlineSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnlineSocket.h; sourceTree = "<group>"; };
-		183F09BD2115AA60009A8ABA /* GCDAsyncSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GCDAsyncSocket.h; sourceTree = "<group>"; };
-		183F09BE2115AA60009A8ABA /* VideoSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoSocket.m; sourceTree = "<group>"; };
-		183F09DA2115AA60009A8ABA /* NSDate+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+Extension.h"; sourceTree = "<group>"; };
-		183F09DB2115AA60009A8ABA /* WSDatePickerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WSDatePickerView.h; sourceTree = "<group>"; };
-		183F09DC2115AA60009A8ABA /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
-		183F09DD2115AA60009A8ABA /* WSDatePickerView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WSDatePickerView.xib; sourceTree = "<group>"; };
-		183F09DE2115AA60009A8ABA /* WSDatePickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WSDatePickerView.m; sourceTree = "<group>"; };
-		183F09DF2115AA60009A8ABA /* NSDate+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+Extension.m"; sourceTree = "<group>"; };
-		183F09E02115AA60009A8ABA /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
 		183F0A152115AC28009A8ABA /* DataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataSource.h; sourceTree = "<group>"; };
 		183F0A162115AC28009A8ABA /* DataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataSource.m; sourceTree = "<group>"; };
 		183F0A1A2115BBE2009A8ABA /* UIColor+MLPFlatColors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+MLPFlatColors.h"; sourceTree = "<group>"; };
@@ -1585,18 +1514,12 @@
 		183F08C32115AA35009A8ABA /* Common */ = {
 			isa = PBXGroup;
 			children = (
-				183F09B82115AA60009A8ABA /* SocketTool */,
-				183F099F2115AA5F009A8ABA /* WRNavigationBar */,
-				183F09D92115AA60009A8ABA /* WSDaePickerView */,
 				183F08CC2115AA35009A8ABA /* EMAlertView */,
 				183F08CF2115AA35009A8ABA /* YPCommon */,
 				183F08D92115AA35009A8ABA /* HYYHudView */,
 				183F08DC2115AA35009A8ABA /* GiftPresentView */,
-				183F08E72115AA35009A8ABA /* WMPageController */,
-				183F08F52115AA35009A8ABA /* WZLBadge */,
 				183F09042115AA35009A8ABA /* LoadHtmlViewController */,
 				183F09112115AA35009A8ABA /* GiftPopView */,
-				183F09182115AA35009A8ABA /* LYEmptyView */,
 				183F09222115AA35009A8ABA /* Pickers */,
 				183F09352115AA35009A8ABA /* MenuViewController */,
 			);
@@ -1668,82 +1591,6 @@
 			path = GiftPresentView;
 			sourceTree = "<group>";
 		};
-		183F08E72115AA35009A8ABA /* WMPageController */ = {
-			isa = PBXGroup;
-			children = (
-				183F08E82115AA35009A8ABA /* WMPageController.m */,
-				183F08E92115AA35009A8ABA /* WMMenuView */,
-				183F08F42115AA35009A8ABA /* WMPageController.h */,
-			);
-			path = WMPageController;
-			sourceTree = "<group>";
-		};
-		183F08E92115AA35009A8ABA /* WMMenuView */ = {
-			isa = PBXGroup;
-			children = (
-				183F08EA2115AA35009A8ABA /* WMScrollView.h */,
-				183F08EB2115AA35009A8ABA /* WMPanGestureRecognizer.m */,
-				183F08EC2115AA35009A8ABA /* WMMenuItem.h */,
-				183F08ED2115AA35009A8ABA /* WMMenuView.h */,
-				183F08EE2115AA35009A8ABA /* WMProgressView.h */,
-				183F08EF2115AA35009A8ABA /* WMMenuItem.m */,
-				183F08F02115AA35009A8ABA /* WMPanGestureRecognizer.h */,
-				183F08F12115AA35009A8ABA /* WMScrollView.m */,
-				183F08F22115AA35009A8ABA /* WMMenuView.m */,
-				183F08F32115AA35009A8ABA /* WMProgressView.m */,
-			);
-			path = WMMenuView;
-			sourceTree = "<group>";
-		};
-		183F08F52115AA35009A8ABA /* WZLBadge */ = {
-			isa = PBXGroup;
-			children = (
-				183F08F62115AA35009A8ABA /* CategorySupport */,
-				183F08F92115AA35009A8ABA /* BarItem */,
-				183F08FE2115AA35009A8ABA /* WZLBadgeImport.h */,
-				183F08FF2115AA35009A8ABA /* Protocol */,
-				183F09012115AA35009A8ABA /* View */,
-			);
-			path = WZLBadge;
-			sourceTree = "<group>";
-		};
-		183F08F62115AA35009A8ABA /* CategorySupport */ = {
-			isa = PBXGroup;
-			children = (
-				183F08F72115AA35009A8ABA /* CAAnimation+WAnimation.m */,
-				183F08F82115AA35009A8ABA /* CAAnimation+WAnimation.h */,
-			);
-			path = CategorySupport;
-			sourceTree = "<group>";
-		};
-		183F08F92115AA35009A8ABA /* BarItem */ = {
-			isa = PBXGroup;
-			children = (
-				183F08FA2115AA35009A8ABA /* UIBarButtonItem+WZLBadge.h */,
-				183F08FB2115AA35009A8ABA /* UITabBarItem+WZLBadge.h */,
-				183F08FC2115AA35009A8ABA /* UIBarButtonItem+WZLBadge.m */,
-				183F08FD2115AA35009A8ABA /* UITabBarItem+WZLBadge.m */,
-			);
-			path = BarItem;
-			sourceTree = "<group>";
-		};
-		183F08FF2115AA35009A8ABA /* Protocol */ = {
-			isa = PBXGroup;
-			children = (
-				183F09002115AA35009A8ABA /* WZLBadgeProtocol.h */,
-			);
-			path = Protocol;
-			sourceTree = "<group>";
-		};
-		183F09012115AA35009A8ABA /* View */ = {
-			isa = PBXGroup;
-			children = (
-				183F09022115AA35009A8ABA /* UIView+WZLBadge.h */,
-				183F09032115AA35009A8ABA /* UIView+WZLBadge.m */,
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
 		183F09042115AA35009A8ABA /* LoadHtmlViewController */ = {
 			isa = PBXGroup;
 			children = (
@@ -1764,22 +1611,6 @@
 				183F09172115AA35009A8ABA /* GiftModel.m */,
 			);
 			path = GiftPopView;
-			sourceTree = "<group>";
-		};
-		183F09182115AA35009A8ABA /* LYEmptyView */ = {
-			isa = PBXGroup;
-			children = (
-				183F09192115AA35009A8ABA /* LYEmptyBaseView.m */,
-				183F091A2115AA35009A8ABA /* LYEmptyView.h */,
-				183F091B2115AA35009A8ABA /* UIScrollView+Empty.m */,
-				183F091C2115AA35009A8ABA /* UIView+LYExtension.m */,
-				183F091D2115AA35009A8ABA /* LYEmptyBaseView.h */,
-				183F091E2115AA35009A8ABA /* LYEmptyViewHeader.h */,
-				183F091F2115AA35009A8ABA /* LYEmptyView.m */,
-				183F09202115AA35009A8ABA /* UIScrollView+Empty.h */,
-				183F09212115AA35009A8ABA /* UIView+LYExtension.h */,
-			);
-			path = LYEmptyView;
 			sourceTree = "<group>";
 		};
 		183F09222115AA35009A8ABA /* Pickers */ = {
@@ -1818,44 +1649,6 @@
 				183F093B2115AA35009A8ABA /* HYYMenuItem.h */,
 			);
 			path = MenuViewController;
-			sourceTree = "<group>";
-		};
-		183F099F2115AA5F009A8ABA /* WRNavigationBar */ = {
-			isa = PBXGroup;
-			children = (
-				183F09A02115AA5F009A8ABA /* WRNavigationBar.m */,
-				183F09A12115AA5F009A8ABA /* WRCustomNavigationBar.h */,
-				183F09A22115AA5F009A8ABA /* WRNavigationBar.h */,
-				183F09A32115AA5F009A8ABA /* WRCustomNavigationBar.m */,
-			);
-			path = WRNavigationBar;
-			sourceTree = "<group>";
-		};
-		183F09B82115AA60009A8ABA /* SocketTool */ = {
-			isa = PBXGroup;
-			children = (
-				183F09B92115AA60009A8ABA /* GCDAsyncSocket.m */,
-				183F09BA2115AA60009A8ABA /* OnlineSocket.m */,
-				183F09BB2115AA60009A8ABA /* VideoSocket.h */,
-				183F09BC2115AA60009A8ABA /* OnlineSocket.h */,
-				183F09BD2115AA60009A8ABA /* GCDAsyncSocket.h */,
-				183F09BE2115AA60009A8ABA /* VideoSocket.m */,
-			);
-			path = SocketTool;
-			sourceTree = "<group>";
-		};
-		183F09D92115AA60009A8ABA /* WSDaePickerView */ = {
-			isa = PBXGroup;
-			children = (
-				183F09DA2115AA60009A8ABA /* NSDate+Extension.h */,
-				183F09DB2115AA60009A8ABA /* WSDatePickerView.h */,
-				183F09DC2115AA60009A8ABA /* UIView+Extension.h */,
-				183F09DD2115AA60009A8ABA /* WSDatePickerView.xib */,
-				183F09DE2115AA60009A8ABA /* WSDatePickerView.m */,
-				183F09DF2115AA60009A8ABA /* NSDate+Extension.m */,
-				183F09E02115AA60009A8ABA /* UIView+Extension.m */,
-			);
-			path = WSDaePickerView;
 			sourceTree = "<group>";
 		};
 		183F0A2D2115C1A9009A8ABA /* Font */ = {
@@ -2992,7 +2785,6 @@
 				0DF1FC2E211AB04800E3A235 /* ear_11.png in Resources */,
 				0DF1FC26211AB04800E3A235 /* tooth_10.png in Resources */,
 				0DF1FC0B211AB04700E3A235 /* langman.png in Resources */,
-				183F0A102115AA61009A8ABA /* WSDatePickerView.xib in Resources */,
 				0DF1FC10211AB04700E3A235 /* white.png in Resources */,
 				1898D9E62114A3F100B5A9C8 /* README.textile in Resources */,
 				18C4E7E721186EA80042213D /* 34.gif in Resources */,
@@ -3133,7 +2925,6 @@
 				18C4E7BF21186EA80042213D /* MyAudioInputView.m in Sources */,
 				18C4E7A821186EA80042213D /* TextTableViewHeaderFooterView.m in Sources */,
 				183F09592115AA35009A8ABA /* GiftPopView.m in Sources */,
-				183F095C2115AA35009A8ABA /* LYEmptyBaseView.m in Sources */,
 				18C4E7E221186EA80042213D /* IMAMsg+UITableViewCell.m in Sources */,
 				183FFBD52115857F009A8ABA /* RefreshView.m in Sources */,
 				1898D9E52114A3F100B5A9C8 /* NSDate+Extension.m in Sources */,
@@ -3151,7 +2942,6 @@
 				183F08A12115A6EF009A8ABA /* NetworkManager.m in Sources */,
 				183FFBBA2115857F009A8ABA /* UIView+CustomAutoLayout.m in Sources */,
 				18C4E7C221186EA80042213D /* MyPttRecordBtn.m in Sources */,
-				183F0A112115AA61009A8ABA /* WSDatePickerView.m in Sources */,
 				18C4E7CB21186EA80042213D /* ChatTimeTipTableViewCell.m in Sources */,
 				183FFBAE2115857F009A8ABA /* NSString+RegexCheck.m in Sources */,
 				183FFBCF2115857F009A8ABA /* TableRefreshViewController.m in Sources */,
@@ -3166,7 +2956,6 @@
 				18C4E7A221186EA80042213D /* IMAHost.m in Sources */,
 				183F089A2115A6EF009A8ABA /* GTMBase64.m in Sources */,
 				18C4E80C21186EA80042213D /* TIMElem+ChatAttachment.m in Sources */,
-				183F0A042115AA61009A8ABA /* VideoSocket.m in Sources */,
 				183F09492115AA35009A8ABA /* PresentView.m in Sources */,
 				183F096A2115AA35009A8ABA /* MenuViewController.m in Sources */,
 				183F09642115AA35009A8ABA /* SWActionSheet.m in Sources */,
@@ -3203,7 +2992,6 @@
 				18C4E7D321186EA80042213D /* ChatInputBaseView.m in Sources */,
 				183F09672115AA35009A8ABA /* AbstractActionSheetPicker.m in Sources */,
 				183FFBC42115857F009A8ABA /* FTUtils+UIGestureRecognizer.m in Sources */,
-				183F094B2115AA35009A8ABA /* WMPanGestureRecognizer.m in Sources */,
 				183F09452115AA35009A8ABA /* AnimOperationManager.m in Sources */,
 				183FFBBF2115857F009A8ABA /* NSObject+KVOCategory.m in Sources */,
 				18C4E7B221186EA80042213D /* TextViewTableViewCell.m in Sources */,
@@ -3220,18 +3008,13 @@
 				1898D9D72114A3CD00B5A9C8 /* NSString+Category.m in Sources */,
 				183FFBBC2115857F009A8ABA /* UIView+RelativeCoordinate.m in Sources */,
 				18C4E7E321186EA80042213D /* ChatBaseTableViewCell.m in Sources */,
-				183F094A2115AA35009A8ABA /* WMPageController.m in Sources */,
 				18C4E7D221186EA80042213D /* ChatSystemFacePageView.m in Sources */,
-				183F095E2115AA35009A8ABA /* UIView+LYExtension.m in Sources */,
-				183F094E2115AA35009A8ABA /* WMMenuView.m in Sources */,
 				183FFBA72115857F009A8ABA /* UILabel+InitMethod.m in Sources */,
 				183FFBDA2115857F009A8ABA /* IOSDeviceConfig.m in Sources */,
-				183F09F72115AA61009A8ABA /* WRCustomNavigationBar.m in Sources */,
 				1898D9A821149FE200B5A9C8 /* CircleViewController.m in Sources */,
 				1898D9BD2114A3B700B5A9C8 /* UIColor+Additions.m in Sources */,
 				183FFBD92115857F009A8ABA /* HUDHelper.m in Sources */,
 				183FFBD12115857F009A8ABA /* UIViewController+Layout.m in Sources */,
-				183F09522115AA35009A8ABA /* UITabBarItem+WZLBadge.m in Sources */,
 				18C4E81221186EA80042213D /* SwipeDeleteTableView.m in Sources */,
 				18C4E7A121186EA80042213D /* IMAGroup.m in Sources */,
 				183FFBCA2115857F009A8ABA /* NSObject+Json.m in Sources */,
@@ -3242,7 +3025,6 @@
 				183FFBC92115857F009A8ABA /* JSONKit.m in Sources */,
 				1898D9AB21149FF600B5A9C8 /* VideoViewController.m in Sources */,
 				18C4E7B921186EA80042213D /* IMAPlatform+FriendShip.m in Sources */,
-				183F095F2115AA35009A8ABA /* LYEmptyView.m in Sources */,
 				18C4E7B121186EA80042213D /* JSCustomBadge.m in Sources */,
 				183FFBA82115857F009A8ABA /* UIImageView+InitMethod.m in Sources */,
 				183FFBD82115857F009A8ABA /* MBProgressHUD.m in Sources */,
@@ -3259,7 +3041,6 @@
 				183F09402115AA35009A8ABA /* YPAlertView.m in Sources */,
 				18C4E7BC21186EA80042213D /* ChatImageBrowserView.m in Sources */,
 				183F0A302115C1A9009A8ABA /* FontHelper.m in Sources */,
-				183F094F2115AA35009A8ABA /* WMProgressView.m in Sources */,
 				18C4E81921186EA80042213D /* IMSDK+ShowAble.m in Sources */,
 				183F08C12115A9F3009A8ABA /* UserHelper.m in Sources */,
 				1898D99E21149F3B00B5A9C8 /* BaseNavigationController.m in Sources */,
@@ -3274,8 +3055,6 @@
 				183FFBBB2115857F009A8ABA /* UINavigationController+Transition.m in Sources */,
 				183FFBD22115857F009A8ABA /* ScrollBaseViewController.m in Sources */,
 				1898D99921149F3B00B5A9C8 /* BaseCollectionViewCell.m in Sources */,
-				183F095D2115AA35009A8ABA /* UIScrollView+Empty.m in Sources */,
-				183F0A032115AA61009A8ABA /* OnlineSocket.m in Sources */,
 				183FFBD72115857F009A8ABA /* ScrollRefreshViewController.m in Sources */,
 				18C4E79F21186EA80042213D /* IMASubGroup.m in Sources */,
 				183F089D2115A6EF009A8ABA /* ParameterHelper.m in Sources */,
@@ -3289,16 +3068,12 @@
 				18C4E7CD21186EA80042213D /* ChatInputPanel.m in Sources */,
 				1898D9E32114A3F100B5A9C8 /* NSDate+Category.m in Sources */,
 				183FFBA92115857F009A8ABA /* MenuButton.m in Sources */,
-				183F0A122115AA61009A8ABA /* NSDate+Extension.m in Sources */,
 				183F09472115AA35009A8ABA /* ShakeLabel.m in Sources */,
 				18C4E7BA21186EA80042213D /* IMAPlatform+AppConfig.m in Sources */,
 				183F0A192115AC28009A8ABA /* DataSource.m in Sources */,
 				183FFBAC2115857F009A8ABA /* UIView+CaptureImage.m in Sources */,
 				18C4E7AD21186EA80042213D /* CommonInputToolBar.m in Sources */,
 				1898D9D42114A3CD00B5A9C8 /* NSString+JsonDictionary.m in Sources */,
-				183F094D2115AA35009A8ABA /* WMScrollView.m in Sources */,
-				183F09512115AA35009A8ABA /* UIBarButtonItem+WZLBadge.m in Sources */,
-				183F09502115AA35009A8ABA /* CAAnimation+WAnimation.m in Sources */,
 				18C4E7DB21186EA80042213D /* ImageThumbPickerViewController.m in Sources */,
 				18C4E81621186EA80042213D /* ConversationListViewController.m in Sources */,
 				18C4E7E121186EA80042213D /* MsgSendingTip.m in Sources */,
@@ -3312,11 +3087,8 @@
 				183F09482115AA35009A8ABA /* GSPChatMessage.m in Sources */,
 				18C4E7E021186EA80042213D /* TIMElemBaseTableViewCell.m in Sources */,
 				18C4E7E521186EA80042213D /* ChatSystemFaceItem.m in Sources */,
-				183F0A132115AA61009A8ABA /* UIView+Extension.m in Sources */,
-				183F09F62115AA61009A8ABA /* WRNavigationBar.m in Sources */,
 				18C4E7DA21186EA80042213D /* MicroVideoPlayView.m in Sources */,
 				183F08C22115A9F3009A8ABA /* UserModel.m in Sources */,
-				183F09532115AA35009A8ABA /* UIView+WZLBadge.m in Sources */,
 				183F08992115A6EF009A8ABA /* DES3.m in Sources */,
 				18C4E7DE21186EA80042213D /* PhotoBrowserViewController.m in Sources */,
 				1898D99A21149F3B00B5A9C8 /* BaseTableViewController.m in Sources */,
@@ -3328,7 +3100,6 @@
 				1898D9A221149FB400B5A9C8 /* ConverViewController.m in Sources */,
 				18C4E7B721186EA80042213D /* IMAPlatform.m in Sources */,
 				183F089C2115A6EF009A8ABA /* YXNetworking.m in Sources */,
-				183F094C2115AA35009A8ABA /* WMMenuItem.m in Sources */,
 				18C4E7B821186EA80042213D /* IMAConversationManager.m in Sources */,
 				1898D99B21149F3B00B5A9C8 /* BaseWebviewViewController.m in Sources */,
 				183FFBB02115857F009A8ABA /* NSObject+CommonBlock.m in Sources */,
@@ -3355,7 +3126,6 @@
 				18C4E80A21186EA80042213D /* ChatTextView.m in Sources */,
 				183F09692115AA35009A8ABA /* HYYMenuItem.m in Sources */,
 				18C4E81721186EA80042213D /* ChatAttachment.m in Sources */,
-				183F0A022115AA61009A8ABA /* GCDAsyncSocket.m in Sources */,
 				18C4E81A21186EA80042213D /* IMAConnectConversation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
