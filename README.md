@@ -1,3 +1,4 @@
-# IT007Repository00
-TEST 
-这是一个test文件
+# TencentIMDemo
+腾讯云框架Demo<br>
+抛砖引玉，整合了官方demo。搭建方便自己用的简单框架。<br>
+
